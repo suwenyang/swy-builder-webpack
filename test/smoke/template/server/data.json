@@ -1,0 +1,26 @@
+{
+  "error":[
+
+  ],
+  "extra":[
+
+  ],
+  "data":{
+    "list":[
+      {
+        "banner_cover":"https://static001.geekbang.org/resource/image/0a/b0/0a4246a6f67f9d09407cea7078253bb0.jpg",
+        "banner_redirect_type":"url",
+        "banner_redirect_param":"https://service.geekbang.org/article/159681?utm_source=timeweb&utm_medium=leftbannner&utm_campaign=chongzhi1111",
+        "banner_title":"双十一充值特惠",
+        "score":48817651916,
+        "banner_utm_term":"lecture11",
+        "id":5795
+      }
+    ],
+    "page":{
+      "count":20,
+      "more":false
+    }
+  },
+  "code":0
+}
